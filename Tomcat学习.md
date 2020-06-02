@@ -414,7 +414,7 @@ JspServlet 处理流程图
 </html>
 ```
 
-![image-20200601211852489](images/image-20200601211852489.png)
+![image-20200602214934324](images/20200602214934324.png)
 
 1)如果在tomcat/conf/web.xml 中配置了参数scratchdir，则jsp编译后的结果,就会存储在该目录下。
 
